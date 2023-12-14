@@ -1,0 +1,11 @@
+C:\Users\ltybj\OneDrive\Desktop\.net\JoePizzaPortal\PizzaLibrary\bin\Debug\net6.0\PizzaLibrary.deps.json
+C:\Users\ltybj\OneDrive\Desktop\.net\JoePizzaPortal\PizzaLibrary\bin\Debug\net6.0\PizzaLibrary.dll
+C:\Users\ltybj\OneDrive\Desktop\.net\JoePizzaPortal\PizzaLibrary\bin\Debug\net6.0\PizzaLibrary.pdb
+C:\Users\ltybj\OneDrive\Desktop\.net\JoePizzaPortal\PizzaLibrary\obj\Debug\net6.0\PizzaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ltybj\OneDrive\Desktop\.net\JoePizzaPortal\PizzaLibrary\obj\Debug\net6.0\PizzaLibrary.AssemblyInfoInputs.cache
+C:\Users\ltybj\OneDrive\Desktop\.net\JoePizzaPortal\PizzaLibrary\obj\Debug\net6.0\PizzaLibrary.AssemblyInfo.cs
+C:\Users\ltybj\OneDrive\Desktop\.net\JoePizzaPortal\PizzaLibrary\obj\Debug\net6.0\PizzaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ltybj\OneDrive\Desktop\.net\JoePizzaPortal\PizzaLibrary\obj\Debug\net6.0\PizzaLibrary.dll
+C:\Users\ltybj\OneDrive\Desktop\.net\JoePizzaPortal\PizzaLibrary\obj\Debug\net6.0\refint\PizzaLibrary.dll
+C:\Users\ltybj\OneDrive\Desktop\.net\JoePizzaPortal\PizzaLibrary\obj\Debug\net6.0\PizzaLibrary.pdb
+C:\Users\ltybj\OneDrive\Desktop\.net\JoePizzaPortal\PizzaLibrary\obj\Debug\net6.0\ref\PizzaLibrary.dll
